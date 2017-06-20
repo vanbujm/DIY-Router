@@ -1,0 +1,11 @@
+{
+  "name": "diy-router",
+  "version": "1.0.0",
+  "description": "An attempt at creating a universal router, plus all the usuall goodies, from scratch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jonathan Van Buren",
+  "license": "MIT"
+}
